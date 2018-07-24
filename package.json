@@ -4,7 +4,7 @@
   "description": "Aeroplane chess",
   "main": "index.js",
   "scripts": {
-    "test": "ooh-node"
+    "start": "ooh-node"
   },
   "license": "MIT",
   "author": {
